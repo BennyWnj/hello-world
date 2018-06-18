@@ -1,5 +1,5 @@
 # hello-world
-first repositroy
+first repository
 
 Hi everyone!
 
